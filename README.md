@@ -1,61 +1,80 @@
 # Machine Learning with Tidymodels 
 
+This is the repository for D-Lab's Machine Learning with Tidymodels. Laptop, Internet connection, and Zoom account required.
+
 This is [Jae Yeon Kim](https://jaeyk.github.io/)'s remix version of the [D-Lab’s Introduction to Machine Learning in R workshop](https://github.com/dlab-berkeley/Machine-Learning-in-R) designed by [Chris Kennedy](https://ck37.com/) and [Evan Muzzall](https://dlab.berkeley.edu/people/evan-muzzall). This version of the workshop focuses on [the tidymodels framework](https://www.tidymodels.org/) and its applications.
 
-[View the associated slides here](https://dlab-berkeley.github.io/Machine-Learning-with-tidymodels/slides#1).
+**Prior experience with R is assumed such as R-Fundamentals Parts 1 through 4 or equivalent knowledge.**
+**Statistical concepts such as mean and standard deviation necessary**
 
-RStudio Binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlab-berkeley/Machine-Learning-with-tidymodels/master?urlpath=rstudio)
+# Workshop Goals
 
-## Content outline
 
-  - Background on machine learning
-      - Classification vs regression
-      - Performance metrics
-  - Data preprocessing 
-      - Missing data
-      - Train/test splits
-  - Algorithm walkthroughs 
-      - Lasso
-      - Decision trees
-      - Random forests
-      - Gradient boosted machines
-      - SuperLearner ensembling 
-      - Principal component analysis  
-      - Hierarchical agglomerative clustering
-  - Challenge questions (**TBD**)
-  
-## Getting started
+# Installation Instructions
 
-Please follow the notes in [participant-instructions.md](participant-instructions.md).  
 
-#### HAVE FUN! :^)
+# Is Machine Learning with Tidymodels not running on your laptop?
 
-The seven algorithm R Markdown files (lasso, decision tree, random forest, xgboost, SuperLearner, PCA, and clustering) are designed to function in a standalone manner.  
+Need to check in with team 6
 
-After installing and librarying the packages in 01-overview.Rmd, run all the code in 02-preprocessing.Rmd to preprocess the data. Then, open any one of the seven algorithm R Markdown files and "Run All" code to see the results and visualizations! 
+# Run the code! 
 
-## Assumed participant background
+Make instructions
 
-We assume that participants have familiarity with:
+# How to get help?
 
-* Basic R syntax
-* Statistical concepts such as mean and standard deviation
+* Within the language/tool itself
+* Via Google searching
+* On stackoverflow
 
-## Technology requirements
+# Resources
 
-Please bring a laptop with the following:
+* Browse resources listed on the [D-Lab Machine Learning Working Group repository](https://github.com/dlab-berkeley/MachineLearningWG). Scroll down to see code examples in R and Python, books, courses at UC Berkeley, online classes, and other resources and groups to help you along your machine learning journey!  
+* [Quintessential book and authors](link to website)
+* {Important website name](link to website)
+* et cetera
 
-* [R version](https://cloud.r-project.org/)
-3.6 or greater
-* [RStudio integrated development environment (IDE)](https://www.rstudio.com/products/rstudio/download/#download) is
-highly recommended but not required.
+# About the UC Berkeley D-Lab
 
-## Resources
+D-Lab works with Berkeley faculty, research staff, and students to advance data-intensive social science and humanities research. Our goal at D-Lab is to provide practical training, staff support, resources, and space to enable you to use R for your own research applications. Our services cater to all skill levels and no programming, statistical, or computer science backgrounds are necessary. We offer these services in the form of workshops such as R Fundamentals, one-to-one consulting, and working groups that cover a variety of research topics, digital tools, and programming languages.  
 
-Browse resources listed on the [D-Lab Machine Learning Working Group repository](https://github.com/dlab-berkeley/MachineLearningWG). Scroll down to see code examples in R and Python, books, courses at UC Berkeley, online classes, and other resources and groups to help you along your machine learning journey!  
+Visit the [D-Lab homepage](http://dlab.berkeley.edu/) to learn more about us. View our [calendar](http://dlab.berkeley.edu/calendar-node-field-date) for upcoming events, and also learn about how to utilize our [consulting](http://dlab.berkeley.edu/consulting) and [data](http://dlab.berkeley.edu/data-resources) services. 
 
-## Slideshow
+(include definition of IOKN2K!)
 
-The slides were made using [xaringan](https://github.com/yihui/xaringan), which is a wrapper for [remark.js](https://remarkjs.com/#1). Check out Chapter 7 if you are interested in making your own! The theme borrows from Brad Boehmke's presentation on [Decision Trees, Bagging, and Random Forests - with an example implementation in R](https://bradleyboehmke.github.io/random-forest-training/slides-source.html#1).  
+# Other D-Lab R Workshops
 
+Check out the [D-Lab Computational Text Analysis Working Group by clicking here](http://dlabctawg.github.io/)
+
+### Basic competency
+
+
+
+### Intermediate/advanced copmetency
+
+
+
+### Legacy workshops (need updating)
+
+# Contributors 
+
+* [Evan Muzzall](https://dlab.berkeley.edu/people/evan-muzzall)
+* [Lawrence Yin Tello](https://dlab.berkeley.edu/people/lawrence-yin-tello)
+* [Josh Quan](https://dlab.berkeley.edu/people/josh-quan-0)
+
+Credit: Thanks to [Software Carpentry](http://software-carpentry.org/workshops/), Chris Paciorek, Rochelle Terman, and the [R-bootcamp](https://dlab.berkeley.edu/training/r-bootcamp-3) for inspiration.
+
+----
+<div style="display:inline-block;vertical-align:middle;">
+<a href="https://dlab.berkeley.edu/" target="_blank">
+<img src ="https://dlab.berkeley.edu/sites/default/files/logo.png" width="60" align="left" border=0 style="border:0; text-decoration:none; outline:none">
+</a>
+</div>
+<div style="display:inline-block;vertical-align:middle;align:left">
+    <div style="font-size:larger">D-Lab @ University of California - Berkeley
+    </br>
+    <a href="https://dlab.berkeley.edu" target="_blank">https://dlab.berkeley.edu</a>
+    </br>
+    &nbsp;
+    </div>
+</div>
