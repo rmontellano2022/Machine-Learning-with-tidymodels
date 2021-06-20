@@ -11,11 +11,36 @@ This is [Jae Yeon Kim](https://jaeyk.github.io/)'s remix version of the [D-Lab�
 
 
 # Installation Instructions
+In preparation for the upcoming workshop you will need to install R, RStudio, and the workshop materials.
+
+1. Install R
+
+Download R by clicking the link here: https://cloud.r-project.org/
+
+Select your operating system and then click "base" (Windows users) or "R-4.0.3.pkg". Double-click this file once it has finished downloading and follow the instructions to install it.
+
+2. Install RStudio
+
+Download RStudio by visiting this link: https://rstudio.com/products/rstudio/download/
+
+Scroll down and click the Download button beneath "RStudio Desktop - Open Source License - Free". Double-click this file once it has finished downloading and follow the instructions to install it.
+
+3. Download the workshop materials
+
+Download the workshop materials by visiting the GitHub repository: https://github.com/dlab-berkeley/Machine-Learning-with-tidymodels
+
+To download the repository, click the green button in the top right hand corner that says "Code" and then select "Download ZIP". You can then unzip the contents of the downloaded folder somewhere accessible on your local computer (we recommend your Desktop).
+
+We will take a few minutes at the start of the workshop to make sure everyone has R and RStudio installed and the workshop materials downloaded. Please feel free to email dlab-frontdesk@berkeley.edu or visit our help desk at https://dlab.berkeley.edu/frontdesk if you have any questions.
+
+If you are a Git user, simply clone this repository by opening a terminal and typing: “git clone https://github.com/dlab-berkeley/Machine-Learning-with-tidymodels.git”.
 
 
-# Is Machine Learning with Tidymodels not running on your laptop?
+# Is R or RStudio not working on your laptop?
+Attend the workshop anyway, we can provide you with a cloud-based solution (DataHub or Binder) until you figure out the problems with your local installation. 
 
-Need to check in with team 6
+If you have a Berkeley CalNet ID, you can run these lessons on UC Berkeley's DataHub by clicking this [link](https://datahub.berkeley.edu/hub/login?next=%2Fhub%2Fuser-redirect%2Fgit-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fdlab-berkeley%252FMachine-Learning-with-tidymodels%26urlpath%3Drstudio%252F%26branch%3Dmaster). By using this link, you can save your work and come back to it at any time. When you want to return to your saved work, just go straight to DataHub (https://datahub.berkeley.edu), sign in, and you click on the Machine-Learning-with-tidymodels folder.
+If you don't have a Berkeley CalNet ID, you can still run these lessons in the cloud, by clicking this Binder button. By using this button, you cannot save your work unfortunately. 
 
 # Run the code! 
 
